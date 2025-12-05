@@ -6,7 +6,7 @@
 
 ## Vision
 
-Neuromorphic Inference Lab is a long-term personal research initiative exploring how
+Neuromorphic Inference Lab is a long-term research initiative exploring how
 **brain-inspired architectures** and **spiking neural networks (SNNs)** can support
 **autonomous agents that reason and act under uncertainty**.
 
