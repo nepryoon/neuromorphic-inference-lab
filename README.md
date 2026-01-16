@@ -1,5 +1,9 @@
 # Neuromorphic Inference Lab
 
+> **Research archive (live):** https://www.neuromorphicinference.com/research  
+> **Applied demos:** https://www.neuromorphicinference.com/demos  
+> **Evidence index:** https://www.neuromorphicinference.com/evidence
+
 > Brain-inspired agents that reason under uncertainty on neuromorphic hardware.
 
 ---
