@@ -226,10 +226,10 @@ python -m http.server 8000
 
 ## Contact & Support
 
-- **GitHub**: https://github.com/nepryoon
-- **Portfolio**: https://www.neuromorphicinference.com/
-- **Demo Repository**: https://github.com/nepryoon/neuromorphic-inference-lab-site
-- **API Repository**: https://github.com/nepryoon/centrico-livelab-mlops
+- **GitHub Profile**: [nepryoon](https://github.com/nepryoon)
+- **Portfolio Site**: [Neuromorphic Inference Lab](https://www.neuromorphicinference.com/)
+- **Demo Repository**: [neuromorphic-inference-lab-site](https://github.com/nepryoon/neuromorphic-inference-lab-site)
+- **API Repository**: [centrico-livelab-mlops](https://github.com/nepryoon/centrico-livelab-mlops)
 
 ## Conclusion
 

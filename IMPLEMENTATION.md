@@ -223,8 +223,8 @@ README.md                                  (integration docs)
 ## Contact & Support
 
 For questions about this implementation:
-- GitHub: https://github.com/nepryoon
-- Portfolio: https://www.neuromorphicinference.com/
+- GitHub Profile: [nepryoon](https://github.com/nepryoon)
+- Portfolio: [Neuromorphic Inference Lab](https://www.neuromorphicinference.com/)
 
 ## Appendix: Quick Reference
 
