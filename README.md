@@ -11,6 +11,23 @@ This repo is the **hub**: it explains the philosophy and points to **live demos*
 
 ---
 
+## Recent Updates
+
+### Site Harmonisation & Centrico LiveLab Integration
+
+This repository now tracks implementation work done across multiple repositories:
+- **[IMPLEMENTATION.md](./IMPLEMENTATION.md)** - Comprehensive summary of all changes made
+- **[APPLY_CHANGES.md](./APPLY_CHANGES.md)** - Instructions for applying changes to other repositories
+
+The work includes:
+- CSS harmonisation with spacing tokens
+- Interactive Centrico LiveLab demo with live API integration
+- Cloudflare Pages Functions API proxy
+- CORS support in FastAPI inference service
+- Prominent CTA buttons for Open Banking Data Prep demo
+
+---
+
 ## How to evaluate (2-minute audit)
 
 1. Open the **Demos hub**: [https://www.neuromorphicinference.com/demos](https://www.neuromorphicinference.com/demos)
